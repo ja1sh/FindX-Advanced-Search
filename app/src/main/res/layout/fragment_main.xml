@@ -231,7 +231,7 @@
         android:layout_marginStart="65dp"
         android:layout_marginTop="17dp"
         android:fontFamily="@font/cabin_medium"
-        android:text="More power to your normal searchig"
+        android:text="More power to your searching"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="#ecf0f7"
